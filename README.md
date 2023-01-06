@@ -19,11 +19,11 @@
 
 ✨  I write code in C++ and java <br/>
 
-<!-- 💬 I would love to talk about internship opportunities starting December 2022. </br> -->
+< 💬 I would love to talk about internship opportunities .
 
 💡 I am currently focusing on java and DSA as well as Iam A beginner contributor at Open Source. <br/>
 
-<!-- 💞️ I’m looking to collaborate on any open source platform. <br /> -->
+<💞️ I’m looking to collaborate on any open source platform. <br /> 
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
