@@ -33,16 +33,15 @@
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<!--a href="https://www.linkedin.com/in/ankitojha07">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
-<a href="mailto:ankitojha1409@gmail.com">
+
+
+<a href="mailto:0107sumangiri@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/ankitojha_07">
+<a href="https://twitter.com/Tech_tweetSuman">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/ankitojha_07">
+
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 <!-- <a href="https://...medium.com/">
@@ -56,11 +55,11 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/nodejs-%23f2ca61.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
 <img alt="C++" src="https://img.shields.io/badge/cpp-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=0000FF"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
+
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 <!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
@@ -71,7 +70,7 @@
 <br>
 <hr/>
 
-<!-- ## Stats 📈 
+< ## Stats 📈 
 <details>
 </details>
 <h2>My GitHub Stats</h2>
