@@ -19,7 +19,7 @@
 
 ✨  I write code in C++ and java <br/>
 
-< 💬 I would love to talk about internship opportunities .
+< 💬 I would love to talk about Project ideas ,Open source contribution and growth  .
 
 💡 I am currently focusing on java and DSA as well as Iam A beginner contributor at Open Source. <br/>
 
@@ -27,14 +27,14 @@
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
-🤯 Check my facebook id here https://www.facebook.com/shuman.giri.940
+🤯 Check my hashnode blogging-tech id here https://hashnode.com/@codeSuman
 
 <br/>
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
 
-
+<a href="https://www.facebook.com/shuman.giri.940">
 <a href="mailto:0107sumangiri@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
