@@ -3,7 +3,7 @@
 <h1 align="center">Hey There 👋, I'm Suman Giri </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!  -->
 
-<h3 align="center">A Techie & A passionate Coder from Nepal</h3>
+<h3 align="center">A Techie, Code-Blogger & A passionate Coder from Nepal</h3>
 
 <!--
 [![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha07)
